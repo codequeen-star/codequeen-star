@@ -1,41 +1,42 @@
-<h1 align="center">Hi 👋, I'm Fozia</h1>
-<h3 align="center">💻 Software Engineer | 🌐 WordPress Developer | 🚀 Future DevOps Engineer | 🇵🇰 Pakistan</h3>
+<h1 align="center">💜 I'm Fozia 👩‍💻</h1>
+
+<h3 align="center">
+A Passionate Software Engineer & Future DevOps Engineer From Pakistan 🇵🇰
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer;WordPress+Developer;Learning+DevOps;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineer;WordPress+Developer;Future+DevOps+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌱 About Me
 
-- 🎓 BS Computer Science Graduate
-- 💻 Passionate Software Engineer
-- 🌐 WordPress Developer
-- 🚀 Currently Learning DevOps
-- 📚 Learning Docker, Kubernetes & AWS
-- ❤️ Love Building Websites
-- 🌱 Always Learning New Technologies
+🌸 I'm **Fozia** — A passionate Software Engineer with a strong interest in Web Development and DevOps.
 
----
+💻 I build responsive and user-friendly websites using **WordPress** and continuously improve my development skills.
 
-## 🚀 Skills
+🚀 Currently learning **Docker, Kubernetes, AWS, Linux and GitHub** to become a professional DevOps Engineer.
 
-### 💻 Programming
+🎓 BS Computer Science Graduate
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+🔥 I enjoy learning new technologies and solving real-world problems.
 
 ---
 
-### 🌐 Web Development
+## 💻 Tech Stack
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🌍 Web Development
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 
@@ -50,6 +51,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
@@ -71,7 +74,7 @@
 
 ---
 
-## 💻 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
 
@@ -81,7 +84,17 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codequeen-star&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -89,11 +102,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -103,10 +116,16 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=codequeen-star&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=codequeen-star&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </p>
 
+---
+
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+✨ Thanks for visiting my GitHub Profile ✨
 </h3>
+
+<p align="center">
+⭐ Don't forget to follow and star my repositories!
+</p>
