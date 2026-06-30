@@ -42,8 +42,6 @@ A Passionate Software Engineer & Future DevOps Engineer From Pakistan 🇵🇰
 
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor)
 
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce)
-
 ---
 
 ### ⚙️ DevOps
